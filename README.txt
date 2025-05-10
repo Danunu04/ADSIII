@@ -3,7 +3,7 @@ READ ME ADS III (Como usar GIT)
 ----------------Antes de empezar----------------
 git cd "el directorio donde esta la carpeta de ADSIII guardada"
 HACER ESTO SI NO TENES NADA PARA SUBIR!!!!!!
-git pull		#Para tener la carpeta al dia
+git pull .		#Para tener la carpeta al dia
 
 ----------------PARA SUBIR COSAS----------------
 git add .               # Agrega todos los cambios nuevos
